@@ -2,7 +2,7 @@ import aboutpic from "./components/Access/mePhoto1.jpg"
 
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://morganbb104.github.io/HW_20_Portfolio_withReact/',
+  homepage: 'https://Dextarmd96.github.io/Portfolio_withReact/',
   title: 'Davis Mhango',
 }
 

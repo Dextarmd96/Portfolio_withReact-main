@@ -1,3 +1,4 @@
 .contact {
-  flex-direction: column;
+  /* flex-direction: column; */
+  flex:none;
 }
